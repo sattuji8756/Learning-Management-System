@@ -1,4 +1,7 @@
 # React + Vite
+# LMS Frontend
+
+# In  this file you can write hw thw project is setup
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
