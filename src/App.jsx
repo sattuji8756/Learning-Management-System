@@ -1,6 +1,7 @@
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
+import { Route, Routes } from 'react-router-dom'
 import './App.css'
 
 function App() {
@@ -28,7 +29,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
-      lms how are you what is your  name how you are we
+      hiii lkl k lk ;k klj j lkjlkl k j
+      <Routes>
+        {/* <Route path="/" element={<Home />} ></Routes> */} 
+      </Routes>
     </>
   )
 }
